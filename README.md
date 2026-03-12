@@ -26,14 +26,19 @@
   ---
   
   # 🌟 Portfolio:
-  - [Mataish Couture](https://Mataishcouture.com)  
-  - [Gujarati Koala Mom](https://Gujaratikoalamom.com)  
-  - [Bata](https://Bata.com)  
-  - [Nalgene](https://Nalgene.com)  
-  - [Tobias Becs](https://Tobiasbecs.com)  
-  - [Divana Lounge](https://divanalounge.co.uk/)  
-  - [Syeda Zainab Trust](https://syedazainabtrust.org.uk)  
-  - [LeatherX Couture](https://leatherxcouture.com/)  
+🌐 WordPress & WooCommerce
+- [Divana Lounge](https://divanalounge.co.uk/) 
+- [Syeda Zainab Trust](https://syedazainabtrust.org.uk/)
+- [Windell Collection ](https://windellcollections.com/) 
+- [Marketing Agency](https://4ametals.us/)
+
+
+🛍️ Shopify & Custom Liquid
+- [SDA jewelry](https://sdajewelry.store/) 
+- [Jetstream Golf](https://jetstreamgolf.com/)
+- [Gym Shark](https://www.gymshark.com/) 
+- [Nomad Goods](https://nomadgoods.com/) 
+
   
   ---
   
