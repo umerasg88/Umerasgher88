@@ -34,9 +34,9 @@
 
 
 🛍️ Shopify & Custom Liquid
-- [SDA jewelry](https://sdajewelry.store/) 
+- [SDA jewelry](https://sdajewelry.store/)
 - [Jetstream Golf](https://jetstreamgolf.com/)
-- [Gym Shark](https://www.gymshark.com/) 
+- [Gym Shark](https://www.gymshark.com/)
 - [Nomad Goods](https://nomadgoods.com/) 
 
   
